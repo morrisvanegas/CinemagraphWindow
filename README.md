@@ -3,10 +3,10 @@
 This cinegraph window displays a cinemagraph in a web browser that is descriptive of the weather at the location based on the IP address of the browser. Although not necessary, I created a wooden window to mount the monitor on. Throw a steaming pie on the window sill to cool and you have an immersive environment!
 
 Example here:
-MorrisVanegas.com/cinemagraphs
+http://morrisvanegas.com/cinemagraphs/ (will open a cinemagraph based on your current location's weather)
 
 More details here:
-MorrisVanegas.com/forus/cinemagraphs.html
+http://morrisvanegas.com/forus/cinemagraphs.html
 
 ## SETUP
 * Create an account from OpenWeatherMap.org to generate your Key.
